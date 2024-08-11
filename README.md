@@ -19,3 +19,8 @@ The video conversion tool should:
 - **Output Resolution:** 1280 x 720px (HD)
 - **Tools Used:** OpenCV for video processing and FFmpeg for audio extraction and merging.
 - **Output Format:** The output video should be saved in a commonly used format such as `.mp4` or `.avi`, with the upscaled resolution and synchronized audio.
+
+- Directory or file structure
+- input_video (place the video inside the folder named input_video)
+- upscaled_video (create a folder name upscaled_video -- > output video will store here)
+- video_conversion.py
